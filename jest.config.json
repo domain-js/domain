@@ -1,0 +1,5 @@
+{
+  "name": "opay",
+  "testRegex": ".*__test__/.*\\.test\\.js$",
+  "testEnvironment": "node"
+}
